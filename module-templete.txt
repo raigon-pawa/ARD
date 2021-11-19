@@ -1,0 +1,11 @@
+const Discord = require('discord.js');
+
+module.exports = {
+    name: "<name>",
+    aliases: ["<alt name>"],
+    category: "<catagory>",
+    description: "<description>",
+    run: async (client, message, args) => {
+        //code
+    }
+}

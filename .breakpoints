@@ -1,0 +1,18 @@
+{
+  "files": {
+    "commands/fun/rapidghostping.js": [
+      {
+        "id": "cf619f2c-7686-4ec2-a362-717678c0937a",
+        "line": 3,
+        "version": 754,
+        "index": 40
+      },
+      {
+        "id": "415351ff-746e-418e-853e-920125440950",
+        "line": 31,
+        "version": 754,
+        "index": 1192
+      }
+    ]
+  }
+}
